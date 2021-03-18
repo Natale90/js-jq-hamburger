@@ -1,13 +1,15 @@
 
 function show(){
   $(".hamburger-menu").show();
-  // $(".hamburger-menu").toggle();
+
 }
 
 function hide(){
 
   $(".hamburger-menu").hide();
 }
+
+
 
 function init(){
 
